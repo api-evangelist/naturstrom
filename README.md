@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Naturstrom is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://naturstrom.de/
+Naturstrom AG is a German energy provider that supplies 100 % renewable electricity, green gas, heating solutions and e‑mobility services to residential and business customers. The company emphasizes sustainability, offers transparent tariffs, and operates under the corporate headquarters in Düsseldorf. It provides customer portals for account management and publishes information about its services, pricing, terms, and privacy policies on its public website.
+
+**Areas:** Energy · Renewable · Electricity · Germany · Sustainability · Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://naturstrom.de/)
+- [Support](https://www.naturstrom.de/service/kontakt)
+- [Blog](https://www.naturstrom.de/blog/)
+- [Terms of service](https://www.naturstrom.de/agb)
+- [Privacy policy](https://www.naturstrom.de/datenschutz)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/naturstrom/](https://apis.io/providers/naturstrom/).
